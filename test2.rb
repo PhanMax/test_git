@@ -1,1 +1,1 @@
-p "max"
+p "max-master"
